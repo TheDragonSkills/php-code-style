@@ -28,7 +28,7 @@ composer skills:add TheDragonSkills/php-code-style
 Ask about code style or simply call the skill:
 
 ```bash
-$php-code-style
+$php-code-style <PHP files or diff> [review|apply]
 ```
 
 ## License
