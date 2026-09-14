@@ -1,0 +1,4 @@
+[submodule "per-coding-style"]
+	path = per-coding-style
+	url = git@github.com:php-fig/per-coding-style.git
+	branch = master
